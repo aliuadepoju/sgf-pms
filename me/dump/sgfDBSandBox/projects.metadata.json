@@ -1,0 +1,21 @@
+{
+    "options": {},
+    "indexes": [{
+        "v": 2,
+        "key": {
+            "_id": 1
+        },
+        "name": "_id_",
+        "ns": "sgfDB.projects"
+    }, {
+        "v": 2,
+        "unique": true,
+        "key": {
+            "puid": 1
+        },
+        "name": "puid_1",
+        "ns": "sgfDB.projects",
+        "background": true
+    }],
+    "uuid": "39b5bc7a9b694de7a45dfd294f9d0a50"
+}

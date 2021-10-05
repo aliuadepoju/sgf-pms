@@ -1,0 +1,43 @@
+[{
+        "name": "OSGF Admin",
+        "shortcode": "OSGF",
+        "email": "admin@sgfpms.ng",
+        "password": "osgf@dm1n",
+        "role": "Admin"
+    },
+    {
+        "name": "Emeka Okafor",
+        "shortcode": "OSGF",
+        "email": "emeka.okafor@estrategia.co.za",
+        "password": "emeka@pass",
+        "role": "Admin"
+    },
+    {
+        "name": "Chioma Itodo",
+        "shortcode": "OSGF",
+        "email": "citodo@arc.perlnigeria.net",
+        "password": "chioma@pass",
+        "role": "Admin"
+    },
+    {
+        "name": "Ministry of Finance, Budget and National Planning",
+        "shortcode": "FMFBNP",
+        "email": "fmfbnp@sgfpms.ng",
+        "password": "fmfbnp@pass",
+        "role": "Mda"
+    },
+    {
+        "name": "Ministry of Transport",
+        "shortcode": "FMT",
+        "email": "fmt@sgfpms.ng",
+        "password": "fmt@pass",
+        "role": "Mda"
+    },
+    {
+        "name": "Ministry of Health",
+        "shortcode": "FMH",
+        "password": "fmh@pass",
+        "email": "fmh@sgfpms.ng",
+        "role": "Mda"
+    }
+]

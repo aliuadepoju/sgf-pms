@@ -1,0 +1,157 @@
+[{
+        "id": "1",
+        "name": "MINISTRY OF  FINANCE,BUDGET AND NATIONAL PLANNING",
+        "shortcode": "FMFBNP"
+    },
+    {
+        "id": "2",
+        "name": "FEDERAL MINISTRY OF POWER",
+        "shortcode": "FMP"
+    },
+    {
+        "id": "3",
+        "name": "MINISTRY OF MINES AND STEEL DEVELOPMENT",
+        "shortcode": "FMSD"
+    },
+    {
+        "id": "4",
+        "name": "MINISTRY OF PETROLEUM RESOURCES",
+        "shortcode": "MPR"
+    },
+    {
+        "id": "5",
+        "name": "FEDERAL MINISTRY OF  WORKS AND HOUSING",
+        "shortcode": "FMWH"
+    },
+
+    {
+        "id": "7",
+        "name": "FEDERAL MINISTRY OF WATER RESOURCES",
+        "shortcode": "FMWR"
+    },
+    {
+        "id": "8",
+        "name": "FEDERAL MINISTRY OF TRANSPORT",
+        "shortcode": "FMT"
+    },
+    {
+        "id": "9",
+        "name": "MINISTRY OF NIGER DELTA AFFAIRS",
+        "shortcode": "MNDA"
+    },
+    {
+        "id": "10",
+        "name": "FEDERAL MINISTRY OF AVIATION",
+        "shortcode": "FMA"
+    },
+
+    {
+        "id": "12",
+        "name": "MINISTRY OF DEFENCE",
+        "shortcode": "MOD"
+    },
+    {
+        "id": "13",
+        "name": "FEDERAL MINISTRY OF SCIENCE AND TECHNOLOGY",
+        "shortcode": "FMST"
+    },
+    {
+        "id": "14",
+        "name": "FEDERAL CAPITAL TERRITORY ADMINISTRATION",
+        "shortcode": "FCTA"
+    },
+    {
+        "id": "15",
+        "name": "FEDERAL MINISTRY OF INFORMATION AND CULTURE",
+        "shortcode": "FMIC"
+    },
+    {
+        "id": "16",
+        "name": "FEDERAL MINISTRY OF AGRICULTURE & RURAL DEVELOPMENT",
+        "shortcode": "FMARD"
+    },
+
+    {
+        "id": "18",
+        "name": "FEDERAL MINISTRY OF HEALTH",
+        "shortcode": "FMH"
+    },
+    {
+        "id": "19",
+        "name": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
+        "shortcode": "FMWA"
+    },
+    {
+        "id": "20",
+        "name": "FEDERAL MINISTRY OF INDUSTRY TRADE AND INVESTMENT",
+        "shortcode": "FMIT"
+    },
+    {
+        "id": "21",
+        "name": "FEDERAL MINISTRY OF COMMUNICATION TECHNOLOGY",
+        "shortcode": "FMCT"
+    },
+    {
+        "id": "22",
+        "name": "FEDERAL MINISTRY OF EDUCATION",
+        "shortcode": "FME"
+    },
+    {
+        "id": "23",
+        "name": "MINISTRY OF FOREIGN AFFAIRS",
+        "shortcode": "MRA"
+    },
+    {
+        "id": "24",
+        "name": "FEDERAL MINISTRY OF YOUTH AND SPORTS",
+        "shortcode": "FMSY"
+    },
+    {
+        "id": "25",
+        "name": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
+        "shortcode": "FMLE"
+    },
+    {
+        "id": "26",
+        "name": "OFFICE OF THE SECRETARY TO THE GOVERNMENT OF THE FEDERATION",
+        "shortcode": "OSGF"
+    },
+    {
+        "id": "27",
+        "name": "OFFICE OF THE HEAD OF CIVIL SERVICE OF THE FEDERATION",
+        "shortcode": "OHCSF"
+    },
+    {
+        "id": "28",
+        "name": "MINISTRY OF INTERIOR",
+        "shortcode": "FMI"
+    },
+    {
+        "id": "29",
+        "name": "FEDERAL MINISTRY OF JUSTICE",
+        "shortcode": "FMJ"
+    },
+    {
+        "id": "30",
+        "name": "FEDERAL MINISTRY OF ENVIRONMENT",
+        "shortcode": "FMENV"
+    },
+    {
+        "id": "31",
+        "name": "MINISTRY OF POLICE AFFAIRS",
+        "shortcode": "MPF"
+    },
+    {
+        "id": "32",
+        "name": "MINISTRY OF SPECIAL DUTIES AND INTER-GOVERNMENTAL AFFAIRS",
+        "shortcode": "MSDIA"
+    }, {
+        "id": "33",
+        "name": "MINISTRY OF HUMANITARIAN AFFAIRS",
+        "shortcode": "MHA"
+    }, {
+        "id": "34",
+        "name": "MINISTRY OF INTERIOR",
+        "shortcode": "MOI"
+    }
+]
