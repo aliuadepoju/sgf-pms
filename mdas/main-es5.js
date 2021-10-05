@@ -3165,7 +3165,7 @@
       var environment = {
         production: false,
         // serverUrl: 'https://api-dot-pdu-osgf.uc.r.appspot.com/',
-        serverUrl: "http://localhost:4000/",
+        serverUrl: "http://api.click-onkaduna.xyz/",
         // serverUrl: "http://172.16.2.8:4000/",
         log: true,
         flags: {
