@@ -50,6 +50,8 @@ app.get("/", (req, res) => {
 });
 
 // require("./schema/file/media.js")(app);
+// require("./schema/file/media.js")(app);
+
 
 app.use(
     "/graphql", graphqlHTTP({
